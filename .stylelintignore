@@ -2,7 +2,8 @@
 **/vendor/
 **/_vendor/
 **/libs/
+**/dist/
 public/
 
-wowchemy/assets/scss/main.scss
-wowchemy/assets/css/reveal_custom.css
+blox-bootstrap/assets/scss/main.scss
+blox-bootstrap/assets/css/reveal_custom.css
